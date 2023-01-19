@@ -1,0 +1,22 @@
+name: autoware-release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  autoware-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: autoware-release-action
+        uses: isamu-takagi/ros-deb-builder-action@develop
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_BRANCH: ubuntu
+          ROS_DISTRO: humble
+          DEB_DISTRO: jammy
+          REPOS_FILE: autoware-release.repos
+          REPOS_CONF: autoware-release.yaml
+          SBUILD_CONF: use Dpkg::Build::Info; $environment_filter = [Dpkg::Build::Info::get_build_env_allowed(), 'ROS_DISTRO'];
