@@ -1,0 +1,112 @@
+Package: ros-humble-autoware-common-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.11.54
+Priority: optional
+Section: misc
+Maintainer: Takagi, Isamu <isamu.takagi@tier4.jp>
+Installed-Size: 423
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-generators
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-common-msgs_1.0.0-2023.01.19.11.54_amd64.deb
+Size: 38784
+MD5sum: 5ab6618a7389db878b159af0e64368ff
+SHA1: 24c6e8370281405a5d3a04a2fe1859afcea6a2fa
+SHA256: 0ff05207fc1b7de38d0bb7ee82a4449c793667739c67ac7e1b5c9f2d38259ec1
+SHA512: ed73eddf975ad7cf897d4d141c4caf0eff0c747ebaaf5ba4402ed12c09d00f38d1c5c3fcf6273141b7650672ebf28c2e2768ade45304c644e7f2557abcb9fa14
+Description: Autoware common messages package.
+
+Package: ros-humble-autoware-control-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.11.55
+Priority: optional
+Section: misc
+Maintainer: M. Fatih Cırıt <mfc@leodrive.ai>
+Installed-Size: 786
+Depends: libc6 (>= 2.4), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5), ros-humble-fastcdr, ros-humble-builtin-interfaces, ros-humble-rosidl-default-runtime
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-control-msgs_1.0.0-2023.01.19.11.55_amd64.deb
+Size: 63150
+MD5sum: ac3c52c939173758a19406e11ddc65be
+SHA1: b6f66c7470826f8254edcb34d82666f87b71c4b6
+SHA256: 316a685a54b7ed9a4e55e8d5720d833791d9159cfd765dbd510f164445d5650d
+SHA512: 8efcbf71aa0c10366c89c97240a9934b2459b36bb949a187e0eb21cc7a438d287c314bd478f7e5156089dbc6c915f85e6045df3557181bf3d51c8c0ad430b33d
+Description: Autoware control messages package.
+
+Package: ros-humble-autoware-localization-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.11.56
+Priority: optional
+Section: misc
+Maintainer: M. Fatih Cırıt <mfc@leodrive.ai>
+Installed-Size: 454
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-geometry-msgs, ros-humble-rosidl-default-runtime, ros-humble-std-msgs
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-localization-msgs_1.0.0-2023.01.19.11.56_amd64.deb
+Size: 41720
+MD5sum: 45b1f9041e0a9dd0fe3aac428a35e768
+SHA1: 62f93ff8186538bd4a8884ae556d02180c9efeee
+SHA256: 82bcac87229b8172a029f1d61d0668ee8228e26a94eb2d6eccb3aab157f45a1c
+SHA512: d5a8740e1c6711043e13deec801d7fe8a5d5ee8b88dd89c2d3fae85eeb8a65e984333cbfd2097c571031f28dab91e22f4b93525c70e8593209b56787f182e9ac
+Description: Autoware localization messages package.
+
+Package: ros-humble-autoware-map-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.11.58
+Priority: optional
+Section: misc
+Maintainer: kminoda <koji.minoda@tier4.jp>
+Installed-Size: 1182
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-humble-fastcdr, ros-humble-geometry-msgs, ros-humble-rosidl-default-runtime, ros-humble-sensor-msgs, ros-humble-std-msgs
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-map-msgs_1.0.0-2023.01.19.11.58_amd64.deb
+Size: 95136
+MD5sum: f0349efc08064ec9338bea14b0c4a7af
+SHA1: 17930c6b17caa1cf823e4b4af5c7e15fa8d9d34a
+SHA256: 1652e2d38496b2d819f8786a56438451def64b596366da2163b7233cae56515e
+SHA512: c75239b2af08dcf952c48bfbddc582a1d62d4966337a9dd44087b4cf4a52944732beec68beb37110da8b3d56f6cd35012864dd04430ccbc4faacb591bdf6f158
+Description: Autoware map messages package.
+
+Package: ros-humble-autoware-perception-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.11.59
+Priority: optional
+Section: misc
+Maintainer: Takagi, Isamu <isamu.takagi@tier4.jp>
+Installed-Size: 896
+Depends: libc6 (>= 2.4), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-humble-fastcdr, ros-humble-builtin-interfaces, ros-humble-rosidl-default-generators
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-perception-msgs_1.0.0-2023.01.19.11.59_amd64.deb
+Size: 68754
+MD5sum: de649d9e34dd386b121e6cf3eaceecf8
+SHA1: 55990b43cb01b363a8f449171710bf5896a95a63
+SHA256: 3d268048ec238e1fb73c4eadbf4efd19e69564df34c788888872ffccfcb96a95
+SHA512: 2a0af2af51400805ff3be9610f9669590fbb9e21ecec785a7fcb90b5089d5188c5a574addc95dead57a0e80904c13bb2f5180e0d47dade682d9d19a8d59318eb
+Description: Autoware perception messages package.
+
+Package: ros-humble-autoware-planning-msgs
+Architecture: amd64
+Version: 0.0.0-2023.01.19.12.02
+Priority: optional
+Section: misc
+Maintainer: Takagi, Isamu <isamu.takagi@tier4.jp>
+Installed-Size: 1020
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-humble-fastcdr, ros-humble-autoware-common-msgs, ros-humble-geometry-msgs, ros-humble-rosidl-default-runtime, ros-humble-std-msgs, ros-humble-unique-identifier-msgs
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-planning-msgs_0.0.0-2023.01.19.12.02_amd64.deb
+Size: 83468
+MD5sum: dfdddea288f7d3b4f4b976f108eef820
+SHA1: 18fb5827aabc63fe7cfc33a214fe95f846186796
+SHA256: c99d73f2a411124346feb9ac93012051b98b9b69f71f23cea0ad8b01378211f3
+SHA512: 58f16677d335b80bad93c8015dc8e589f09d943c572f0787f93fd55d0036e66dd1d4fe75eec20861087302d99c7d21ae0a1c6e09ad3c008d3c42f12f056e2234
+Description: Autoware planning messages package.
+
+Package: ros-humble-autoware-sensing-msgs
+Architecture: amd64
+Version: 1.0.0-2023.01.19.12.00
+Priority: optional
+Section: misc
+Maintainer: M. Fatih Cırıt <mfc@leodrive.ai>
+Installed-Size: 530
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-geometry-msgs, ros-humble-rosidl-default-runtime, ros-humble-std-msgs
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-sensing-msgs_1.0.0-2023.01.19.12.00_amd64.deb
+Size: 45052
+MD5sum: b4c78d7754bd68a19498508c6a8154cb
+SHA1: 66130b97d74954f2662a818c7189ef6e8d34f607
+SHA256: 7cf9eb42e3d6e4c0ed81f5f3e3155c3b259a833f05157335db3346753dd5a7a2
+SHA512: 663eb591572ee75dfd33aa10cd269d568fb6b1a31bfffb188b64c716f57190d79bfd30435a85f3e8cc56b1f7fc65e145d725c76b91c9ea84506a5b89740cee68
+Description: Autoware sensing messages package.
+

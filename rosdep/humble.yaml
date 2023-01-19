@@ -1,0 +1,21 @@
+autoware_common_msgs:
+  ubuntu:
+  - ros-humble-autoware-common-msgs
+autoware_control_msgs:
+  ubuntu:
+  - ros-humble-autoware-control-msgs
+autoware_localization_msgs:
+  ubuntu:
+  - ros-humble-autoware-localization-msgs
+autoware_map_msgs:
+  ubuntu:
+  - ros-humble-autoware-map-msgs
+autoware_perception_msgs:
+  ubuntu:
+  - ros-humble-autoware-perception-msgs
+autoware_planning_msgs:
+  ubuntu:
+  - ros-humble-autoware-planning-msgs
+autoware_sensing_msgs:
+  ubuntu:
+  - ros-humble-autoware-sensing-msgs
