@@ -1,3 +1,35 @@
+Package: ros-humble-autoware-adapi-v1-msgs
+Architecture: amd64
+Version: 0.0.0-2023.01.19.12.11
+Priority: optional
+Section: misc
+Maintainer: Takagi, Isamu <isamu.takagi@tier4.jp>
+Installed-Size: 3241
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-humble-fastcdr, ros-humble-builtin-interfaces, ros-humble-geometry-msgs, ros-humble-rosidl-default-runtime, ros-humble-std-msgs
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-adapi-v1-msgs_0.0.0-2023.01.19.12.11_amd64.deb
+Size: 205712
+MD5sum: 144a17390ae42efd56365dbb4f88739b
+SHA1: 99f18bdd740bb53f2765f9d49813d5a5cbc30274
+SHA256: 5a98cd8e3551902f18e418531282e8802570c9257f49976baf547a95d1f3c06d
+SHA512: feb24b875f095c7be9162846868f537cd21b99e3619bbd4d322f8b9c90009c997615af26adbc36d752f0ffd948e445b4d77489aba51682eee3a27c11c074c105
+Description: The autoware_adapi_v1_msgs package
+
+Package: ros-humble-autoware-adapi-version-msgs
+Architecture: amd64
+Version: 0.0.0-2023.01.19.12.13
+Priority: optional
+Section: misc
+Maintainer: Takagi, Isamu <isamu.takagi@tier4.jp>
+Installed-Size: 511
+Depends: libc6 (>= 2.4), libpython3.10 (>= 3.10.0), libstdc++6 (>= 4.1.1), ros-humble-fastcdr, ros-humble-rosidl-default-runtime
+Filename: dists/jammy/universe/binary-amd64/ros-humble-autoware-adapi-version-msgs_0.0.0-2023.01.19.12.13_amd64.deb
+Size: 41602
+MD5sum: a8697a242e9f0894fb3b081df8549f64
+SHA1: 1d8ed9c0364865fb81c04c67722e41e71bf7a056
+SHA256: 23795cadc9fee55d57d8df24a30b2f214490e303633e26326f4d563826166974
+SHA512: 1e500539e809da1b54b7314ead11d3652104ad53fc1448bfa7d5d814ef8675a92fc37d9bce0f97529dc4d08f6c4ab09ab84dc714c72ee68d8a16530cf249c706
+Description: The autoware_adapi_version_msgs package
+
 Package: ros-humble-autoware-common-msgs
 Architecture: amd64
 Version: 1.0.0-2023.01.19.11.54

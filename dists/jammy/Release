@@ -1,16 +1,16 @@
 Suite: jammy
 Components: universe
 Architectures: amd64
-Date: Thu, 19 Jan 2023 12:04:13 +0000
+Date: Thu, 19 Jan 2023 12:14:18 +0000
 MD5Sum:
- 586b0e078af729847b384d3a3a074270               93 Release
- 939704881f83d0849be89a28428caaca             6006 universe/binary-amd64/Packages
+ 083958431ca7a9e420a8e6ee4849e56d               93 Release
+ 01e414259fd3e3aee0bcef138c82cfab             7715 universe/binary-amd64/Packages
 SHA1:
- ce62efd177c9bd455685b5c683ac9861244c4466               93 Release
- fdfc16485554433ba35eafa9f1f3bc8a297427b8             6006 universe/binary-amd64/Packages
+ 50de408f3f3958c5c00a017ecaec491142c5d558               93 Release
+ 697130f8e92f0e6f1cc532ca25112a78ff9b7c75             7715 universe/binary-amd64/Packages
 SHA256:
- 16b99169ff2439e0faa732e986fe4ae3b1d9a20be0af5fee258b39c2219c283a               93 Release
- e71410b2c31e362b934d5f6bf0bcaf5a5dcf9dbd4f78a2322e8c256193ffb602             6006 universe/binary-amd64/Packages
+ 54be6a19d203b268034eadf5e49f88fe396243e985533be62d42c01d66d25509               93 Release
+ 79cafde53c8b6830243cfb32b86c0938fbb1e801a6b1a10a54bffe1a8bb2388b             7715 universe/binary-amd64/Packages
 SHA512:
- b5c2ff982a4f6460ae662bbc2555a238e2a7db57e724045c3c6b80ee667eeef736729d49cc765c45ab0d8849bab6749caf92d2a3b0909a0062a3be74d79c0579               93 Release
- 2fec1afe3c9ffbde060d9a853bfa07a98391f9d6e8787e1bbeedb678f80981d42103a3b36f485740a950e0ed1dc0da0032870bd94ac7de58f85de45aa7189ff6             6006 universe/binary-amd64/Packages
+ 59cce22faf6d1182a0d2a4c16192152ab0a1d866654565bf3324b7f91019859e5c5016b540812660f5d8234bed12554ae4790151da6da13386e3db5a5aacea43               93 Release
+ c215cfafaf5b421218721d075bf857752b5232be7231755024ca86363812e164831b514e6fa247c756165da162158b5bf73ca499d471e86bbf41c93e84ca250e             7715 universe/binary-amd64/Packages
